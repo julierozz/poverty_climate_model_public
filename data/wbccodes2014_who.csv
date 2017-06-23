@@ -1,0 +1,215 @@
+country,country_name,wbregion,who
+ABW,Aruba,YHI,
+ADO,Andorra,YHI,
+AFG,Afghanistan,SAS,EMR-D
+AGO,Angola,SSA,AFR-D
+ALB,Albania,ECA,EUR-B
+ARE,United Arab Emirates,YHI,
+ARG,Argentina,LAC,AMR-B
+ARM,Armenia,ECA,EUR-B
+ASM,American Samoa,EAP,WPR-B
+ATG,Antigua and Barbuda,YHI,
+AUS,Australia,YHI,
+AUT,Austria,YHI,
+AZE,Azerbaijan,ECA,EUR-B
+BDI,Burundi,SSA,AFR-E
+BEL,Belgium,YHI,
+BEN,Benin,SSA,AFR-D
+BFA,Burkina Faso,SSA,AFR-D
+BGD,Bangladesh,SAS,SEAR-D
+BGR,Bulgaria,ECA,EUR-B
+BHR,Bahrain,YHI,
+BHS,"Bahamas, The",YHI,
+BIH,Bosnia and Herzegovina,ECA,EUR-B
+BLR,Belarus,ECA,EUR-C
+BLZ,Belize,LAC,AMR-B
+BMU,Bermuda,YHI,
+BOL,Bolivia,LAC,AMR-D
+BRA,Brazil,LAC,AMR-B
+BRB,Barbados,YHI,
+BRN,Brunei Darussalam,YHI,
+BTN,Bhutan,SAS,
+BWA,Botswana,SSA,AFR-E
+CAF,Central African Republic,SSA,AFR-E
+CAN,Canada,YHI,
+CHE,Switzerland,YHI,
+CHI,Channel Islands,YHI,
+CHL,Chile,YHI,
+CHN,China,EAP,WPR-B
+CIV,Côte d'Ivoire,SSA,AFR-E
+CMR,Cameroon,SSA,AFR-D
+COG,"Congo, Rep.",SSA,AFR-E
+COL,Colombia,LAC,AMR-B
+COM,Comoros,SSA,AFR-D
+CPV,Cape Verde,SSA,AFR-D
+CRI,Costa Rica,LAC,AMR-B
+CUB,Cuba,LAC,
+CUW,Curaçao,YHI,
+CYM,Cayman Islands,YHI,
+CYP,Cyprus,YHI,
+CZE,Czech Republic,YHI,
+DEU,Germany,YHI,
+DJI,Djibouti,MNA,EMR-D
+DMA,Dominica,LAC,AMR-B
+DNK,Denmark,YHI,
+DOM,Dominican Republic,LAC,AMR-B
+DZA,Algeria,MNA,AFR-D
+ECU,Ecuador,LAC,AMR-D
+EGY,"Egypt, Arab Rep.",MNA,EMR-D
+ERI,Eritrea,SSA,AFR-E
+ESP,Spain,YHI,
+EST,Estonia,YHI,
+ETH,Ethiopia,SSA,AFR-E
+FIN,Finland,YHI,
+FJI,Fiji,EAP,WPR-B
+FRA,France,YHI,
+FRO,Faeroe Islands,YHI,
+FSM,"Micronesia, Fed. Sts.",EAP,WPR-B
+GAB,Gabon,SSA,AFR-D
+GBR,United Kingdom,YHI,
+GEO,Georgia,ECA,EUR-B
+GHA,Ghana,SSA,AFR-D
+GIN,Guinea,SSA,AFR-D
+GMB,"Gambia, The",SSA,AFR-D
+GNB,Guinea-Bissau,SSA,AFR-D
+GNQ,Equatorial Guinea,YHI,
+GRC,Greece,YHI,
+GRD,Grenada,LAC,
+GRL,Greenland,YHI,
+GTM,Guatemala,LAC,AMR-D
+GUM,Guam,YHI,
+GUY,Guyana,LAC,AMR-B
+HKG,"Hong Kong SAR, China",YHI,
+HND,Honduras,LAC,AMR-B
+HRV,Croatia,YHI,
+HTI,Haiti,LAC,AMR-D
+HUN,Hungary,ECA,EUR-C
+IDN,Indonesia,EAP,SEAR-B
+IMY,Isle of Man,YHI,
+IND,India,SAS,SEAR-D
+IRL,Ireland,YHI,
+IRN,"Iran, Islamic Rep.",MNA,EMR-B
+IRQ,Iraq,MNA,EMR-D
+ISL,Iceland,YHI,
+ISR,Israel,YHI,
+ITA,Italy,YHI,
+JAM,Jamaica,LAC,AMR-B
+JOR,Jordan,MNA,EMR-B
+JPN,Japan,YHI,
+KAZ,Kazakhstan,ECA,EUR-C
+KEN,Kenya,SSA,AFR-E
+KGZ,Kyrgyz Republic,ECA,EUR-B
+KHM,Cambodia,EAP,WPR-B
+KIR,Kiribati,EAP,WPR-B
+KNA,St. Kitts and Nevis,LAC,
+KOR,"Korea, Rep.",YHI,
+KSV,Kosovo,ECA,
+KWT,Kuwait,YHI,
+LAO,Lao PDR,EAP,WPR-B
+LBN,Lebanon,MNA,EMR-B
+LBR,Liberia,SSA,AFR-D
+LBY,Libya,MNA,EMR-B
+LCA,St. Lucia,LAC,AMR-B
+LIE,Liechtenstein,YHI,
+LKA,Sri Lanka,SAS,SEAR-B
+LSO,Lesotho,SSA,AFR-E
+LTU,Lithuania,YHI,
+LUX,Luxembourg,YHI,
+LVA,Latvia,YHI,
+MAC,"Macao SAR, China",YHI,
+MAF,St. Martin (French part),YHI,
+MAR,Morocco,MNA,EMR-D
+MCO,Monaco,YHI,
+MDA,Moldova,ECA,EUR-C
+MDG,Madagascar,SSA,AFR-D
+MDV,Maldives,SAS,SEAR-D
+MEX,Mexico,LAC,AMR-B
+MHL,Marshall Islands,EAP,WPR-B
+MKD,"Macedonia, FYR",ECA,EUR-B
+MLI,Mali,SSA,AFR-D
+MLT,Malta,YHI,
+MMR,Myanmar,EAP,SEAR-D
+MNE,Montenegro,ECA,
+MNG,Mongolia,EAP,WPR-B
+MNP,Northern Mariana Islands,YHI,
+MOZ,Mozambique,SSA,AFR-E
+MRT,Mauritania,SSA,AFR-D
+MUS,Mauritius,SSA,AFR-D
+MWI,Malawi,SSA,AFR-E
+MYS,Malaysia,EAP,WPR-B
+NAM,Namibia,SSA,AFR-E
+NCL,New Caledonia,YHI,
+NER,Niger,SSA,AFR-D
+NGA,Nigeria,SSA,AFR-D
+NIC,Nicaragua,LAC,AMR-D
+NLD,Netherlands,YHI,
+NOR,Norway,YHI,
+NPL,Nepal,SAS,SEAR-D
+NZL,New Zealand,YHI,
+OMN,Oman,YHI,
+PAK,Pakistan,SAS,EMR-D
+PAN,Panama,LAC,AMR-B
+PER,Peru,LAC,AMR-D
+PHL,Philippines,EAP,WPR-B
+PLW,Palau,EAP,WPR-B
+PNG,Papua New Guinea,EAP,WPR-B
+POL,Poland,YHI,
+PRI,Puerto Rico,YHI,
+PRK,"Korea, Dem. Rep.",EAP,SEAR-D
+PRT,Portugal,YHI,
+PRY,Paraguay,LAC,AMR-B
+PYF,French Polynesia,YHI,
+QAT,Qatar,YHI,
+ROM,Romania,ECA,EUR-B
+RUS,Russian Federation,YHI,
+RWA,Rwanda,SSA,AFR-E
+SAU,Saudi Arabia,YHI,
+SDN,Sudan,SSA,EMR-D
+SEN,Senegal,SSA,AFR-D
+SGP,Singapore,YHI,
+SLB,Solomon Islands,EAP,WPR-B
+SLE,Sierra Leone,SSA,AFR-D
+SLV,El Salvador,LAC,AMR-B
+SMR,San Marino,YHI,
+SOM,Somalia,SSA,EMR-D
+SRB,Serbia,ECA,
+SSD,South Sudan,SSA,EMR-D
+STP,São Tomé and Principe,SSA,AFR-D
+SUR,Suriname,LAC,AMR-B
+SVK,Slovak Republic,YHI,
+SVN,Slovenia,YHI,
+SWE,Sweden,YHI,
+SWZ,Swaziland,SSA,AFR-E
+SXM,Sint Maarten (Dutch part),YHI,
+SYC,Seychelles,SSA,AFR-D
+SYR,Syrian Arab Republic,MNA,EMR-B
+TCA,Turks and Caicos Islands,YHI,
+TCD,Chad,SSA,AFR-D
+TGO,Togo,SSA,AFR-D
+THA,Thailand,EAP,SEAR-B
+TJK,Tajikistan,ECA,EUR-B
+TKM,Turkmenistan,ECA,EUR-B
+TMP,Timor-Leste,EAP,
+TON,Tonga,EAP,WPR-B
+TTO,Trinidad and Tobago,YHI,
+TUN,Tunisia,MNA,EMR-B
+TUR,Turkey,ECA,EUR-B
+TUV,Tuvalu,EAP,WPR-B
+TZA,Tanzania,SSA,AFR-E
+UGA,Uganda,SSA,AFR-E
+UKR,Ukraine,ECA,EUR-C
+URY,Uruguay,YHI,
+USA,United States,YHI,
+UZB,Uzbekistan,ECA,EUR-B
+VCT,St. Vincent and the Grenadines,LAC,AMR-B
+VEN,"Venezuela, RB",LAC,AMR-B
+VIR,Virgin Islands (U.S.),YHI,
+VNM,Vietnam,EAP,WPR-B
+VUT,Vanuatu,EAP,WPR-B
+WBG,West Bank and Gaza,MNA,
+WSM,Samoa,EAP,WPR-B
+YEM,"Yemen, Rep.",MNA,EMR-D
+ZAF,South Africa,SSA,AFR-E
+ZAR,"Congo, Dem. Rep.",SSA,AFR-E
+ZMB,Zambia,SSA,AFR-E
+ZWE,Zimbabwe,SSA,AFR-E

@@ -1,0 +1,215 @@
+,country,country_name,wbregion,wbregionname,wbincome,wbincomename,wblending,wbhipc
+0,ABW,Aruba,YHI,High Income,HIX,High income: nonOECD,..,
+1,ADO,Andorra,YHI,High Income,HIX,High income: nonOECD,..,
+2,AFG,Afghanistan,SAS,South Asia,LIC,Low income,IDA,HIPC
+3,AGO,Angola,SSA,Sub-Saharan Africa,UMI,Upper middle income,IDA,
+4,ALB,Albania,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+5,ARE,United Arab Emirates,YHI,High Income,HIX,High income: nonOECD,..,
+6,ARG,Argentina,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+7,ARM,Armenia,ECA,Europe & Central Asia,LMI,Lower middle income,Blend,
+8,ASM,American Samoa,EAP,East Asia & Pacific,UMI,Upper middle income,..,
+9,ATG,Antigua and Barbuda,YHI,High Income,HIX,High income: nonOECD,IBRD,
+10,AUS,Australia,YHI,High Income,HIO,High income: OECD,..,
+11,AUT,Austria,YHI,High Income,HIO,High income: OECD,..,EMU
+12,AZE,Azerbaijan,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+13,BDI,Burundi,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+14,BEL,Belgium,YHI,High Income,HIO,High income: OECD,..,EMU
+15,BEN,Benin,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+16,BFA,Burkina Faso,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+17,BGD,Bangladesh,SAS,South Asia,LIC,Low income,IDA,
+18,BGR,Bulgaria,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+19,BHR,Bahrain,YHI,High Income,HIX,High income: nonOECD,..,
+20,BHS,"Bahamas, The",YHI,High Income,HIX,High income: nonOECD,..,
+21,BIH,Bosnia and Herzegovina,ECA,Europe & Central Asia,UMI,Upper middle income,Blend,
+22,BLR,Belarus,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+23,BLZ,Belize,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+24,BMU,Bermuda,YHI,High Income,HIX,High income: nonOECD,..,
+25,BOL,Bolivia,LAC,Latin America & Caribbean,LMI,Lower middle income,Blend,HIPC
+26,BRA,Brazil,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+27,BRB,Barbados,YHI,High Income,HIX,High income: nonOECD,..,
+28,BRN,Brunei Darussalam,YHI,High Income,HIX,High income: nonOECD,..,
+29,BTN,Bhutan,SAS,South Asia,LMI,Lower middle income,IDA,
+30,BWA,Botswana,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+31,CAF,Central African Republic,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+32,CAN,Canada,YHI,High Income,HIO,High income: OECD,..,
+33,CHE,Switzerland,YHI,High Income,HIO,High income: OECD,..,
+34,CHI,Channel Islands,YHI,High Income,HIX,High income: nonOECD,..,
+35,CHL,Chile,YHI,High Income,HIO,High income: OECD,IBRD,
+36,CHN,China,EAP,East Asia & Pacific,UMI,Upper middle income,IBRD,
+37,CIV,Cote d'Ivoire,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+38,CMR,Cameroon,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+39,COG,"Congo, Rep.",SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+40,COL,Colombia,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+41,COM,Comoros,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+42,CPV,Cape Verde,SSA,Sub-Saharan Africa,LMI,Lower middle income,Blend,
+43,CRI,Costa Rica,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+44,CUB,Cuba,LAC,Latin America & Caribbean,UMI,Upper middle income,..,
+45,CUW,Curacao,YHI,High Income,HIX,High income: nonOECD,..,
+46,CYM,Cayman Islands,YHI,High Income,HIX,High income: nonOECD,..,
+47,CYP,Cyprus,YHI,High Income,HIX,High income: nonOECD,..,EMU
+48,CZE,Czech Republic,YHI,High Income,HIO,High income: OECD,..,
+49,DEU,Germany,YHI,High Income,HIO,High income: OECD,..,EMU
+50,DJI,Djibouti,MNA,Middle East & North Africa,LMI,Lower middle income,IDA,
+51,DMA,Dominica,LAC,Latin America & Caribbean,UMI,Upper middle income,Blend,
+52,DNK,Denmark,YHI,High Income,HIO,High income: OECD,..,
+53,DOM,Dominican Republic,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+54,DZA,Algeria,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+55,ECU,Ecuador,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+56,EGY,"Egypt, Arab Rep.",MNA,Middle East & North Africa,LMI,Lower middle income,IBRD,
+57,ERI,Eritrea,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+58,ESP,Spain,YHI,High Income,HIO,High income: OECD,..,EMU
+59,EST,Estonia,YHI,High Income,HIO,High income: OECD,..,EMU
+60,ETH,Ethiopia,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+61,FIN,Finland,YHI,High Income,HIO,High income: OECD,..,EMU
+62,FJI,Fiji,EAP,East Asia & Pacific,UMI,Upper middle income,IBRD,
+63,FRA,France,YHI,High Income,HIO,High income: OECD,..,EMU
+64,FRO,Faeroe Islands,YHI,High Income,HIX,High income: nonOECD,..,
+65,FSM,"Micronesia, Fed. Sts.",EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+66,GAB,Gabon,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+67,GBR,United Kingdom,YHI,High Income,HIO,High income: OECD,..,
+68,GEO,Georgia,ECA,Europe & Central Asia,LMI,Lower middle income,Blend,
+69,GHA,Ghana,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+70,GIN,Guinea,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+71,GMB,"Gambia, The",SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+72,GNB,Guinea-Bissau,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+73,GNQ,Equatorial Guinea,YHI,High Income,HIX,High income: nonOECD,IBRD,
+74,GRC,Greece,YHI,High Income,HIO,High income: OECD,..,EMU
+75,GRD,Grenada,LAC,Latin America & Caribbean,UMI,Upper middle income,Blend,
+76,GRL,Greenland,YHI,High Income,HIX,High income: nonOECD,..,
+77,GTM,Guatemala,LAC,Latin America & Caribbean,LMI,Lower middle income,IBRD,
+78,GUM,Guam,YHI,High Income,HIX,High income: nonOECD,..,
+79,GUY,Guyana,LAC,Latin America & Caribbean,LMI,Lower middle income,IDA,HIPC
+80,HKG,"Hong Kong SAR, China",YHI,High Income,HIX,High income: nonOECD,..,
+81,HND,Honduras,LAC,Latin America & Caribbean,LMI,Lower middle income,IDA,HIPC
+82,HRV,Croatia,YHI,High Income,HIX,High income: nonOECD,IBRD,
+83,HTI,Haiti,LAC,Latin America & Caribbean,LIC,Low income,IDA,HIPC
+84,HUN,Hungary,ECA,Europe & Central Asia,UMI,Upper middle income,..,
+85,IDN,Indonesia,EAP,East Asia & Pacific,LMI,Lower middle income,IBRD,
+86,IMY,Isle of Man,YHI,High Income,HIX,High income: nonOECD,..,
+87,IND,India,SAS,South Asia,LMI,Lower middle income,Blend,
+88,IRL,Ireland,YHI,High Income,HIO,High income: OECD,..,EMU
+89,IRN,"Iran, Islamic Rep.",MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+90,IRQ,Iraq,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+91,ISL,Iceland,YHI,High Income,HIO,High income: OECD,..,
+92,ISR,Israel,YHI,High Income,HIO,High income: OECD,..,
+93,ITA,Italy,YHI,High Income,HIO,High income: OECD,..,EMU
+94,JAM,Jamaica,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+95,JOR,Jordan,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+96,JPN,Japan,YHI,High Income,HIO,High income: OECD,..,
+97,KAZ,Kazakhstan,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+98,KEN,Kenya,SSA,Sub-Saharan Africa,LIC,Low income,IDA,
+99,KGZ,Kyrgyz Republic,ECA,Europe & Central Asia,LIC,Low income,IDA,
+100,KHM,Cambodia,EAP,East Asia & Pacific,LIC,Low income,IDA,
+101,KIR,Kiribati,EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+102,KNA,St. Kitts and Nevis,LAC,Latin America & Caribbean,HIX,High income: nonOECD,IBRD,
+103,KOR,"Korea, Rep.",YHI,High Income,HIO,High income: OECD,IBRD,
+104,KSV,Kosovo,ECA,Europe & Central Asia,LMI,Lower middle income,IDA,
+105,KWT,Kuwait,YHI,High Income,HIX,High income: nonOECD,..,
+106,LAO,Lao PDR,EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+107,LBN,Lebanon,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+108,LBR,Liberia,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+109,LBY,Libya,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+110,LCA,St. Lucia,LAC,Latin America & Caribbean,UMI,Upper middle income,Blend,
+111,LIE,Liechtenstein,YHI,High Income,HIX,High income: nonOECD,..,
+112,LKA,Sri Lanka,SAS,South Asia,LMI,Lower middle income,Blend,
+113,LSO,Lesotho,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,
+114,LTU,Lithuania,YHI,High Income,HIX,High income: nonOECD,..,
+115,LUX,Luxembourg,YHI,High Income,HIO,High income: OECD,..,EMU
+116,LVA,Latvia,YHI,High Income,HIX,High income: nonOECD,..,
+117,MAC,"Macao SAR, China",YHI,High Income,HIX,High income: nonOECD,..,
+118,MAF,St. Martin (French part),YHI,High Income,HIX,High income: nonOECD,..,
+119,MAR,Morocco,MNA,Middle East & North Africa,LMI,Lower middle income,IBRD,
+120,MCO,Monaco,YHI,High Income,HIX,High income: nonOECD,..,
+121,MDA,Moldova,ECA,Europe & Central Asia,LMI,Lower middle income,IDA,
+122,MDG,Madagascar,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+123,MDV,Maldives,SAS,South Asia,UMI,Upper middle income,IDA,
+124,MEX,Mexico,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+125,MHL,Marshall Islands,EAP,East Asia & Pacific,UMI,Upper middle income,IDA,
+126,MKD,"Macedonia, FYR",ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+127,MLI,Mali,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+128,MLT,Malta,YHI,High Income,HIX,High income: nonOECD,..,EMU
+129,MMR,Myanmar,EAP,East Asia & Pacific,LIC,Low income,IDA,
+130,MNE,Montenegro,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+131,MNG,Mongolia,EAP,East Asia & Pacific,LMI,Lower middle income,Blend,
+132,MNP,Northern Mariana Islands,YHI,High Income,HIX,High income: nonOECD,..,
+133,MOZ,Mozambique,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+134,MRT,Mauritania,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+135,MUS,Mauritius,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+136,MWI,Malawi,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+137,MYS,Malaysia,EAP,East Asia & Pacific,UMI,Upper middle income,IBRD,
+138,NAM,Namibia,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+139,NCL,New Caledonia,YHI,High Income,HIX,High income: nonOECD,..,
+140,NER,Niger,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+141,NGA,Nigeria,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,
+142,NIC,Nicaragua,LAC,Latin America & Caribbean,LMI,Lower middle income,IDA,HIPC
+143,NLD,Netherlands,YHI,High Income,HIO,High income: OECD,..,EMU
+144,NOR,Norway,YHI,High Income,HIO,High income: OECD,..,
+145,NPL,Nepal,SAS,South Asia,LIC,Low income,IDA,
+146,NZL,New Zealand,YHI,High Income,HIO,High income: OECD,..,
+147,OMN,Oman,YHI,High Income,HIX,High income: nonOECD,..,
+148,PAK,Pakistan,SAS,South Asia,LMI,Lower middle income,Blend,
+149,PAN,Panama,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+150,PER,Peru,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+151,PHL,Philippines,EAP,East Asia & Pacific,LMI,Lower middle income,IBRD,
+152,PLW,Palau,EAP,East Asia & Pacific,UMI,Upper middle income,IBRD,
+153,PNG,Papua New Guinea,EAP,East Asia & Pacific,LMI,Lower middle income,Blend,
+154,POL,Poland,YHI,High Income,HIO,High income: OECD,IBRD,
+155,PRI,Puerto Rico,YHI,High Income,HIX,High income: nonOECD,..,
+156,PRK,"Korea, Dem. Rep.",EAP,East Asia & Pacific,LIC,Low income,..,
+157,PRT,Portugal,YHI,High Income,HIO,High income: OECD,..,EMU
+158,PRY,Paraguay,LAC,Latin America & Caribbean,LMI,Lower middle income,IBRD,
+159,PYF,French Polynesia,YHI,High Income,HIX,High income: nonOECD,..,
+160,QAT,Qatar,YHI,High Income,HIX,High income: nonOECD,..,
+161,ROM,Romania,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+162,RUS,Russian Federation,YHI,High Income,HIX,High income: nonOECD,IBRD,
+163,RWA,Rwanda,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+164,SAU,Saudi Arabia,YHI,High Income,HIX,High income: nonOECD,..,
+165,SDN,Sudan,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+166,SEN,Senegal,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+167,SGP,Singapore,YHI,High Income,HIX,High income: nonOECD,..,
+168,SLB,Solomon Islands,EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+169,SLE,Sierra Leone,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+170,SLV,El Salvador,LAC,Latin America & Caribbean,LMI,Lower middle income,IBRD,
+171,SMR,San Marino,YHI,High Income,HIX,High income: nonOECD,..,
+172,SOM,Somalia,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+173,SRB,Serbia,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+174,SSD,South Sudan,SSA,Sub-Saharan Africa,LIC,Low income,IDA,
+175,STP,Sao Tome and Principe,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+176,SUR,Suriname,LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+177,SVK,Slovak Republic,YHI,High Income,HIO,High income: OECD,..,EMU
+178,SVN,Slovenia,YHI,High Income,HIO,High income: OECD,..,EMU
+179,SWE,Sweden,YHI,High Income,HIO,High income: OECD,..,
+180,SWZ,Swaziland,SSA,Sub-Saharan Africa,LMI,Lower middle income,IBRD,
+181,SXM,Sint Maarten (Dutch part),YHI,High Income,HIX,High income: nonOECD,..,
+182,SYC,Seychelles,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+183,SYR,Syrian Arab Republic,MNA,Middle East & North Africa,LMI,Lower middle income,IBRD,
+184,TCA,Turks and Caicos Islands,YHI,High Income,HIX,High income: nonOECD,..,
+185,TCD,Chad,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+186,TGO,Togo,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+187,THA,Thailand,EAP,East Asia & Pacific,UMI,Upper middle income,IBRD,
+188,TJK,Tajikistan,ECA,Europe & Central Asia,LIC,Low income,IDA,
+189,TKM,Turkmenistan,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+190,TMP,Timor-Leste,EAP,East Asia & Pacific,LMI,Lower middle income,Blend,
+191,TON,Tonga,EAP,East Asia & Pacific,UMI,Upper middle income,IDA,
+192,TTO,Trinidad and Tobago,YHI,High Income,HIX,High income: nonOECD,IBRD,
+193,TUN,Tunisia,MNA,Middle East & North Africa,UMI,Upper middle income,IBRD,
+194,TUR,Turkey,ECA,Europe & Central Asia,UMI,Upper middle income,IBRD,
+195,TUV,Tuvalu,EAP,East Asia & Pacific,UMI,Upper middle income,IDA,
+196,TZA,Tanzania,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+197,UGA,Uganda,SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+198,UKR,Ukraine,ECA,Europe & Central Asia,LMI,Lower middle income,IBRD,
+199,URY,Uruguay,YHI,High Income,HIX,High income: nonOECD,IBRD,
+200,USA,United States,YHI,High Income,HIO,High income: OECD,..,
+201,UZB,Uzbekistan,ECA,Europe & Central Asia,LMI,Lower middle income,Blend,
+202,VCT,St. Vincent and the Grenadines,LAC,Latin America & Caribbean,UMI,Upper middle income,Blend,
+203,VEN,"Venezuela, RB",LAC,Latin America & Caribbean,UMI,Upper middle income,IBRD,
+204,VIR,Virgin Islands (U.S.),YHI,High Income,HIX,High income: nonOECD,..,
+205,VNM,Vietnam,EAP,East Asia & Pacific,LMI,Lower middle income,Blend,
+206,VUT,Vanuatu,EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+207,WBG,West Bank and Gaza,MNA,Middle East & North Africa,LMI,Lower middle income,..,
+208,WSM,Samoa,EAP,East Asia & Pacific,LMI,Lower middle income,IDA,
+209,YEM,"Yemen, Rep.",MNA,Middle East & North Africa,LMI,Lower middle income,IDA,
+210,ZAF,South Africa,SSA,Sub-Saharan Africa,UMI,Upper middle income,IBRD,
+211,ZAR,"Congo, Dem. Rep.",SSA,Sub-Saharan Africa,LIC,Low income,IDA,HIPC
+212,ZMB,Zambia,SSA,Sub-Saharan Africa,LMI,Lower middle income,IDA,HIPC
+213,ZWE,Zimbabwe,SSA,Sub-Saharan Africa,LIC,Low income,Blend,
